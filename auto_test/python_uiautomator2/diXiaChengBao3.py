@@ -1,4 +1,4 @@
-# 地下城堡3 自动刷
+# 地下城堡3 自动脚本
 import uiautomator2
 import time
 
